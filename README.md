@@ -4,7 +4,7 @@ WEBAPPv2
 
 ##COMPLETE VERSION AT THE TOP RIGHT CORNER OF THE HALL##
 
-A text-based Adventure Game involving Cybersecurity and Carvie. 
+A text-based Adventure Game involving Cybersecurity featuring Rob Carvell as Carve. 
 
 
 (There are in-game sounds)
